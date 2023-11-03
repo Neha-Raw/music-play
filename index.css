@@ -1,0 +1,58 @@
+body {
+    margin-top: 100px;
+    text-align: center;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+
+}
+
+.image {
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    border: solid greenyellow;
+}
+
+.play {
+    height: 50px;
+    width: 50px;
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    background-color:lightpink;
+    height: 500px;
+    width: 500px;
+    border-radius: 30px;
+}
+
+.image {
+    margin-top: 50px;
+}
+
+
+.previos {
+    height: 50px;
+    width: 50px;
+}
+
+.next {
+    height: 50px;
+    width: 50px;
+}
+
+input {
+    width: 150px;
+}
+
+.duraction {
+    width: 250px;
+}.pause{
+    width: 50px;
+    height: 50px;
+}
